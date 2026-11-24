@@ -1,0 +1,5 @@
+model,rmse,mae,mape_pct,qlike_loss,pearson_corr,directional_accuracy_pct
+Ridge Regressor,0.004164,0.003143,36.7,0.103448,0.217,86.67
+CryptoGRU,0.00463,0.004074,61.23,0.114334,-0.1155,88.33
+CryptoLSTM,0.005796,0.00443,40.93,0.297921,-0.3033,43.33
+Naive Persistence (24h Vol),0.005905,0.004504,42.33,0.333125,-0.2547,11.67

@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Version control & OS
+.git/
+.gitignore
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Project temporary logs
+logs/
+*.log

@@ -1,0 +1,4 @@
+configuration,feature_count,rmse,mae,qlike_loss,directional_accuracy_pct
+Market Features Only,12,0.007715,0.004717,0.19222,83.16
+FinBERT Sentiment Only,6,0.008548,0.005219,0.302645,80.0
+Multimodal Fusion (Market + NLP),18,0.007715,0.004717,0.19222,83.16

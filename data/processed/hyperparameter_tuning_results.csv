@@ -1,0 +1,2 @@
+trial,model_type,seq_len,hidden_size,lr,dropout,best_epoch,best_val_loss
+1,gru,6,16,0.01,0.1,2,0.230678

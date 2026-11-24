@@ -1,0 +1,134 @@
+{
+  "369a8857ed33a7b3d581918807103e9c": {
+    "positive": 0.2223,
+    "negative": 0.2974,
+    "neutral": 0.4803,
+    "sentiment_score": -0.0751
+  },
+  "fbbda2e5ef7d944245cc5c3361e6ced4": {
+    "positive": 0.1132,
+    "negative": 0.086,
+    "neutral": 0.8008,
+    "sentiment_score": 0.0272
+  },
+  "49c9466c0e2819111f20a799287c477b": {
+    "positive": 0.0465,
+    "negative": 0.2583,
+    "neutral": 0.6952,
+    "sentiment_score": -0.2118
+  },
+  "06d5b9371121e92b62305ec19e7bf2f1": {
+    "positive": 0.8309,
+    "negative": 0.0809,
+    "neutral": 0.0882,
+    "sentiment_score": 0.75
+  },
+  "7250640cdac29c32917ab845641621a4": {
+    "positive": 0.9393,
+    "negative": 0.0218,
+    "neutral": 0.0389,
+    "sentiment_score": 0.9175
+  },
+  "76ad81fa299aa951bcfa9141ea2a056b": {
+    "positive": 0.3424,
+    "negative": 0.2541,
+    "neutral": 0.4034,
+    "sentiment_score": 0.0883
+  },
+  "c059245adf144a3fc33b7b64b21487b1": {
+    "positive": 0.009,
+    "negative": 0.9694,
+    "neutral": 0.0216,
+    "sentiment_score": -0.9604
+  },
+  "9d17544410f9e2f7fc7a9f083012df4a": {
+    "positive": 0.1335,
+    "negative": 0.0125,
+    "neutral": 0.854,
+    "sentiment_score": 0.121
+  },
+  "0b327816c598bdc609fce389f97879e3": {
+    "positive": 0.0442,
+    "negative": 0.9264,
+    "neutral": 0.0294,
+    "sentiment_score": -0.8822
+  },
+  "c5a44661e9eb55590c174836200ae5f9": {
+    "positive": 0.8874,
+    "negative": 0.0699,
+    "neutral": 0.0427,
+    "sentiment_score": 0.8175
+  },
+  "ea4d3fad98c4cd2b707d8e35ff06f43b": {
+    "positive": 0.0417,
+    "negative": 0.1744,
+    "neutral": 0.7839,
+    "sentiment_score": -0.1327
+  },
+  "4f005ba619a1a38167018f21ffb81d8d": {
+    "positive": 0.3145,
+    "negative": 0.0128,
+    "neutral": 0.6727,
+    "sentiment_score": 0.3017
+  },
+  "5ba371bfc5d3e4ca6737a65ac565679b": {
+    "positive": 0.0408,
+    "negative": 0.0242,
+    "neutral": 0.935,
+    "sentiment_score": 0.0166
+  },
+  "3d3a1cc3a65dcf21e9cf903750b825dd": {
+    "positive": 0.8959,
+    "negative": 0.0217,
+    "neutral": 0.0825,
+    "sentiment_score": 0.8742
+  },
+  "0f33a48c734c541bd56b44c5b90d5152": {
+    "positive": 0.0176,
+    "negative": 0.9252,
+    "neutral": 0.0572,
+    "sentiment_score": -0.9076
+  },
+  "00a54c4dabd4f04e2aed7d4621b8c466": {
+    "positive": 0.9212,
+    "negative": 0.0385,
+    "neutral": 0.0403,
+    "sentiment_score": 0.8827
+  },
+  "1019cb753df703222028fdc335edd632": {
+    "positive": 0.0226,
+    "negative": 0.0391,
+    "neutral": 0.9383,
+    "sentiment_score": -0.0165
+  },
+  "a1b152b2d40fce8b61ac2e5a3da054e4": {
+    "positive": 0.0285,
+    "negative": 0.7651,
+    "neutral": 0.2063,
+    "sentiment_score": -0.7366
+  },
+  "dac6c34cfd4e0597ec632bc7cfe1533d": {
+    "positive": 0.3387,
+    "negative": 0.0481,
+    "neutral": 0.6132,
+    "sentiment_score": 0.2906
+  },
+  "4387428ff016ee883054d2f49e7831cf": {
+    "positive": 0.3399,
+    "negative": 0.0615,
+    "neutral": 0.5987,
+    "sentiment_score": 0.2784
+  },
+  "142d570a7d37cd8bd8dc496405d1c6a0": {
+    "positive": 0.1,
+    "negative": 0.4367,
+    "neutral": 0.4633,
+    "sentiment_score": -0.3367
+  },
+  "05d38bd2fe1b7aff5f425c911401d36c": {
+    "positive": 0.5741,
+    "negative": 0.0196,
+    "neutral": 0.4063,
+    "sentiment_score": 0.5545
+  }
+}

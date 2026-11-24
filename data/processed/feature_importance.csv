@@ -1,0 +1,19 @@
+feature,category,importance_score,relative_importance_pct
+bb_pct_b,Market Technical,0.0005916,62.78
+volatility_24h,Market Technical,0.0001863,19.77
+rsi_14,Market Technical,9.42e-05,10.0
+momentum_4h,Market Technical,5.16e-05,5.48
+vol_change_pct,Market Technical,1.52e-05,1.61
+momentum_10h,Market Technical,3.4e-06,0.36
+volatility_12h,Market Technical,0.0,0.0
+log_return,Market Technical,0.0,0.0
+macd,Market Technical,0.0,0.0
+macd_signal,Market Technical,0.0,0.0
+bb_width,Market Technical,0.0,0.0
+macd_hist,Market Technical,0.0,0.0
+avg_sentiment,NLP Sentiment,0.0,0.0
+pct_positive,NLP Sentiment,0.0,0.0
+pct_negative,NLP Sentiment,0.0,0.0
+sentiment_variance,NLP Sentiment,0.0,0.0
+sentiment_shock,NLP Sentiment,0.0,0.0
+sentiment_missing,NLP Sentiment,0.0,0.0

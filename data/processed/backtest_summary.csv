@@ -1,0 +1,2 @@
+strategy_cum_return_pct,buy_and_hold_cum_return_pct,strategy_sharpe_ratio,buy_and_hold_sharpe_ratio,strategy_max_drawdown_pct,buy_and_hold_max_drawdown_pct,strategy_annualized_vol_pct,buy_and_hold_annualized_vol_pct,volatility_reduction_pct,win_rate_pct,total_periods
+-43.07,-58.26,-8.37,-8.89,-45.79,-62.61,30.93,44.81,30.99,42.09,468
